@@ -46,16 +46,13 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sarfrazahmad307&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-stats-psi-dun-15.vercel.app/api?username=sarfrazahmad307&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fhtb.vercel.app/api?username=sarfrazahmad307&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfrazahmad307&theme=tokyonight" alt="GitHub Streak"/> -->
+  <img src="https://github-readme-stats-fhtb.vercel.app/api/top-langs/?username=sarfrazahmad307&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sarfrazahmad307&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfrazahmad307&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/> -->
-  <img src="https://github-readme-stats-psi-dun-15.vercel.app/api/top-langs/?username=sarfrazahmad307&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>

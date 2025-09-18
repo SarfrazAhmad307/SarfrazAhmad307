@@ -54,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-sarfrazahmad307.vercel.app?user=sarfrazahmad307&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sarfrazahmad307&theme=tokyonight" alt="GitHub Streak"/>
 </p>

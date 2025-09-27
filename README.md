@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarfraz Ahmad</h1>
-<h3 align="center">Data Scientist | MS Student @ MBZUAI</h3>
+<h3 align="center">NLP Engineer | Data Scientist | MS Student @ MBZUAI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarfrazahmad307&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />

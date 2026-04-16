@@ -20,17 +20,25 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/_sarfrazahmad">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarfraz-ahmad-928a4b194/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/sarfrazahmad307">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://twitter.com/_sarfrazahmad">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://www.linkedin.com/in/sarfraz-ahmad-928a4b194/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <a href="https://kaggle.com/sarfrazahmad307">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

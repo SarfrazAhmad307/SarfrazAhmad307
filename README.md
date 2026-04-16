@@ -15,6 +15,7 @@
 - 💡 Passionate about **Machine Learning, NLP, Deep Learning, and AI research applications**
 - 🛠️ Skilled in building **data-driven solutions** and working with **end-to-end ML pipelines**
 - 📄 Check my [LinkedIn](https://www.linkedin.com/in/sarfraz-ahmad-928a4b194/) for the latest updates
+- 🌐 Learn more about my work: [Portfolio](https://sarfrazahmad307.github.io/sarfrazahmad/)
 
 ---
 
@@ -64,13 +65,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-fhtb.vercel.app/api?username=sarfrazahmad307&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-fhtb.vercel.app/api/top-langs/?username=sarfrazahmad307&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfrazahmad307" alt="GitHub Streak" />

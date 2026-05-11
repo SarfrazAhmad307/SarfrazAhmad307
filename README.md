@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🎓 Currently pursuing **MSc in Natural Language Processing (NLP)** at [MBZUAI](https://mbzuai.ac.ae/) (2nd year)
-- 💡 Passionate about **Machine Learning, NLP, Deep Learning, and AI research applications**
+- 💡 Passionate about **Machine Learning (ML), NLP, Deep Learning, and AI research applications**
 - 🛠️ Skilled in building **data-driven solutions** and working with **end-to-end ML pipelines**
 - 📄 Check my [LinkedIn](https://www.linkedin.com/in/sarfraz-ahmad-928a4b194/) for the latest updates
 - 🌐 Learn more about my work: [Portfolio](https://sarfrazahmad307.github.io/sarfrazahmad/)
